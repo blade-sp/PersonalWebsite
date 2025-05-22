@@ -3,17 +3,16 @@ title: "Welcome"
 format: html
 ---
 
-# Welcome
-
 Hi, I'm Riccardo --- a PhD student in Agricultural Economics with a special interest in personal finance. This is my academic website where I share my research, teaching, and other professional activities.
 
 ------------------------------------------------------------------------
 
-## About
+## About me
 
-About me
+I'm currently in The Netherlands, where I am doing a PhD at the Business Economics group at Wageningen University & Research. 
 
-flatly
+My research interest is on decision-making under risk and uncertainty, agricultural finance and behavioral economics.  
+
 
 ------------------------------------------------------------------------
 
