@@ -11,6 +11,7 @@ format: html
 
 ### Conference Presentations
 
+<<<<<<< HEAD
 -   AES 2024 -- "Farmer Preferences for Insurance Tools: A Behavioral Approach"
 
 ------------------------------------------------------------------------
@@ -21,3 +22,6 @@ format: html
 -   Guest Lectures: Risk and Resilience in Ag Systems
 
 ------------------------------------------------------------------------
+=======
+-   AES 2024 -- "Farmer Preferences for Insurance Tools: A Behavioral Approach"
+>>>>>>> 38bfbd7a12fba226284b965d320ebe61c5ef0b20
