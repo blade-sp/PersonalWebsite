@@ -1,0 +1,35 @@
+
+# This is the Quarto project configuration file.
+# It defines the project type, website settings, and format options.
+ 
+project: 
+  type: website 
+
+website:
+  title: "Riccardo Spada"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Resources
+        href: resources.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    left: "© 2025 Riccardo Spada"
+    right: "Made with [Quarto](https://quarto.org)"
+    # Optional: You can add a logo or image to the navbar
+    # logo: logo.png  # Uncomment and provide a path to your logo image 
+    # Optional: You can add a custom favicon
+    # favicon: favicon.ico  # Uncomment and provide a path to your favicon image  
+
+format:
+  html:
+    theme: flatly   # You can try others like lumen, flatly, simplex
+    css: styles.css  # Optional custom styling
+    toc: true         # Table of contents on each page (can remove if not needed)
+    toc-depth: 2
