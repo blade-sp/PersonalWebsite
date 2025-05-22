@@ -1,0 +1,8 @@
+---
+title: "Contact"
+format: html
+---
+
+## Contact
+
+Feel free to reach out via [email](mailto:riccardo@example.com), or connect with me on [LinkedIn](https://www.linkedin.com).
