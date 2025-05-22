@@ -3,7 +3,8 @@
 # It defines the project type, website settings, and format options.
  
 project: 
-  type: website 
+  type: website
+  output-dir: docs 
 
 website:
   title: "Riccardo Spada"
