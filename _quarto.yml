@@ -9,6 +9,8 @@ project:
   type: website
   output-dir: docs 
 
+site-url: "https://blade-sp.github.io/PersonalWebsite/"
+
 website:
   title: "Riccardo Spada"
   navbar:

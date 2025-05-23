@@ -5,19 +5,14 @@ format: html
 
 # Research
 
+[AgEnRes](https://agenres.eu/)
+
 ## Working Papers
 
 -   *Behavioral Preferences and Price Risk Management: A Systematic Literature Review*
 
 ### Conference Presentations
 
--   AES 2024 -- "Farmer Preferences for Insurance Tools: A Behavioral Approach"
-
-------------------------------------------------------------------------
-
-# Teaching
-
--   Teaching Assistant: Agricultural Finance (2024)
--   Guest Lectures: Risk and Resilience in Ag Systems
+-   AES 2025 -- "Behavioral Preferences and Price Risk Management: A Systematic Literature Review"
 
 ------------------------------------------------------------------------

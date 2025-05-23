@@ -4,9 +4,6 @@ format: html
 ---
 
 
-
-## Blog
-
-Coming soon: posts on academic life, research updates, and personal finance tips.
+[How to write academic paper](docs/write.html)
 
 ------------------------------------------------------------------------
