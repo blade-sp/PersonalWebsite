@@ -4,6 +4,6 @@ format: html
 ---
 
 
-[How to write academic paper](docs/write.html)
+[How to write academic paper](write.html)
 
 ------------------------------------------------------------------------
