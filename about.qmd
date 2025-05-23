@@ -1,8 +1,0 @@
----
-title: "About Me"
-format: html
----
-
-# About Me
-
-I'm currently pursuing my PhD in Agricultural Economics. My research focuses on risk management, behavioral economics, and resilience in agri-food systems. I'm also passionate about personal finance and financial decision-making.

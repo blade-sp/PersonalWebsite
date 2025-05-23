@@ -14,7 +14,6 @@
     "text": "About me\nflatly"
   },
   {
-<<<<<<< HEAD
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -55,13 +54,6 @@
     "title": "Contact",
     "section": "",
     "text": "Feel free to reach out via email, or connect with me on LinkedIn."
-=======
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "About Me\nI’m currently pursuing my PhD in Agricultural Economics. My research focuses on risk management, behavioral economics, and resilience in agri-food systems. I’m also passionate about personal finance and financial decision-making."
->>>>>>> 38bfbd7a12fba226284b965d320ebe61c5ef0b20
   },
   {
     "objectID": "research.html",

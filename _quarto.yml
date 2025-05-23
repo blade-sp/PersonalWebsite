@@ -1,7 +1,10 @@
 
 # This is the Quarto project configuration file.
 # It defines the project type, website settings, and format options.
- 
+
+
+# Add the website URL: https://blade-sp.github.io/PersonalWebsite/
+
 project: 
   type: website
   output-dir: docs 
