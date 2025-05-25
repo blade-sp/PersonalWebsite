@@ -23,8 +23,6 @@ website:
         href: resources.qmd
       - text: CV
         href: cv.qmd
-      - text: Contact
-        href: contact.qmd
   page-footer:
     left: "© 2025 Riccardo Spada"
     right: "Made with [Quarto](https://quarto.org)"

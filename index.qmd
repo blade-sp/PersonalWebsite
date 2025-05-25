@@ -3,6 +3,20 @@ title: "Welcome"
 format: html
 ---
 
+::: {.grid}
+::: {.g-col-6}
+![](images/Fototessera.JPG){width="50%" fig-align="center"}
+:::
+
+::: {.g-col-6}
+PhD candidate <br><br>
+Business Economics group <br><br>
+Wageningen University & Research <br><br>
+[riccardo.spada@wur.nl](mailto:riccardo.spada@wur.nl)
+:::
+:::
+
+
 Hi, I'm Riccardo --- a PhD student in Agricultural Economics. This is my academic website where I share my research, notes, and random stuff.
 
 ------------------------------------------------------------------------
@@ -12,8 +26,6 @@ Hi, I'm Riccardo --- a PhD student in Agricultural Economics. This is my academi
 I'm currently based in The Netherlands where I'm pursuing my PhD in Agricultural Economics with the [Business Economic](https://www.wur.nl/en/research-results/chair-groups/social-sciences/business-economics-group.htm) group at [Wageningen University & Research](https://www.wur.nl/en). 
 
 [My research](research.html) focuses on risk management, behavioral economics, and resilience in agri-food systems. 
-
-I'm also passionate about personal finance and financial decision-making.
 
 ------------------------------------------------------------------------
 

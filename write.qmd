@@ -1,7 +1,9 @@
 ---
-title: "How to write academic papers"
+title: "How to Write an Academic Papers"
 format: html
 ---
+
+The material I present here is a collection of tips from supervisors, colleagues, online resources, and the extracts from the course [Academic Publication and Presentation in the Social Sciences](https://www.wur.nl/en/activity/academic-publication-and-presentation-in-the-social-sciences-4-ects.htm) course organized by Wageningen School of Social Sciences ([WASS](https://www.wur.nl/en/show/wageningen-school-of-social-sciences-wass.htm)). It is everything I would have wanted to know at the start of my PhD journey.
 
 # Basic principles
 
@@ -27,11 +29,11 @@ Research ≠ Analysis. Research is telling a “story” – to other scholars, 
 
 # Title page
 
+It can be helpful to write the title and abstract before you start your paper, and then rewrite them later.
+
 ## Title 
 
 ## Abstract
-
-It can be helpful to write the title and abstract before you start your paper, and then rewrite them later.
 
 ## Keywords
 
@@ -45,7 +47,7 @@ The JEL classification system was developed for use in the Journal of Economic L
 
 # Introduction
 
-The introduction is the most important section of a written paper. It should be edited or rewritten many, many times. Fullerton suggests it should be written first and rewritten or edited every time you write other sections. The following formula is a great place to start but then ask yourself, what does this formula miss for my paper? What do I need to add? What do I need to subtract? Will reorganizing any key points help me tell the economic “story” more clearly?
+The introduction is the most important section of a written paper. It should be edited/rewritten many, many times. It should be written first and rewritten/updated every time you write other sections. The following formula is a great place to start but then ask yourself, what does this formula miss for my paper? What do I need to add? What do I need to subtract? Will reorganizing any key points help me tell the economic “story” more clearly?
 
 - *Paragraph 1* - Why is the general subject interesting and important? Why might someone not in your discipline think this is important? 
 - *Paragraph 2* - What is the specific question and what does this paper do? You should actually write, “This paper address the question of ….” or “This paper explores…” 
@@ -54,7 +56,7 @@ The introduction is the most important section of a written paper. It should be 
 - *Paragraph 5* - Results. What do you find? If possible, restate how the findings are novel and important, perhaps signaling but not necessarily detailing implications for policy or the real world. 
 - *Paragraph 6* - The roadmap. Outline the organization of the remainder of the paper. Be specific enough, though, to avoid an outline that could go in any paper.
 
-[The Introduction Formula](https://blogs.ubc.ca/khead/research/research-advice/formula) – Keith Head 
+From: [The Introduction Formula](https://blogs.ubc.ca/khead/research/research-advice/formula) – Keith Head 
 
 ## Good research questions
 
@@ -64,9 +66,6 @@ What makes a good research question?
 -	The subject is very common or involves large outlays of social resources. 
 
 A good question will often complete the following statements: “I wonder if ….” ; “It is interesting that …”. If you can’t convince yourself that your research question falls into one of these categories, you may need a new question.
-
-A useful exercise to establish how the question is important. 
-Are many people worse off or better off? Are some people far better off or far worse off? Does the subject involve large public or private resource expenditures? If empirical: does this question help resolve an important theoretical puzzle? Does the topic involve extremely common situations?
 
 ## Research gaps
 
@@ -84,17 +83,18 @@ Don’t stress the “gap” but instead frame what you are doing in terms of �
 - Results and Discussion
 
 ### Tips:
-- No separate “literature review” section. In a thesis, you would definitely want a literature review between the introduction and the theoretical framework. But in a paper to be submitted to a journal, your literature review should be a one-paragraph affair in your introduction explaining how your work relates to the closest five to seven studies on the topic.
+- No separate “literature review” section. Your literature review should be a one-paragraph affair in your introduction explaining how your work relates to the closest five to seven studies on the topic.
 - You might want to have a section titled “Background” between the introduction and the theoretical framework. This is especially so when you study a legislative change, a new policy whose details are important or, in an IO paper, the features of the market you are studying. This can either be a substitute for or a complement to the theoretical framework.
-- You might not need a theoretical framework. Some questions are old (e.g., the effects of land rights on agricultural productivity) and the theory behind them is well documented and does not need to be restated.
+- You might not need a theoretical framework. Some questions are old and the theory behind them is well documented and does not need to be restated.
 - The order between the “Empirical Framework” and “Data and Descriptive Statistics” sections can sometimes be switched. Go with what is logical here.
-- You might have noticed that I list “limitations” both under “Results and Discussion” and in my conclusion formula. I really think limitations should be emphasized that way. This is especially true if your work has any policy relevance; you don’t want anyone to interpret your results in ways they should not be interpreted.
+- Limitations should be emphasized. This is especially true if your work has any policy relevance; you don’t want anyone to interpret your results in ways they should not be interpreted.
 
 ## Visualizations 
 
 Every part of your paper should quickly support the story. Read [Schwabish, 2014](https://www-aeaweb-org.ezproxy.library.wur.nl/articles?id=10.1257/jep.28.1.209)
 
-Compelling graphics: a good picture can be worth much more than a thousand words
+*A good picture can be worth much more than a thousand words*<br>
+
 Data visualization principles: 
 -	show the data to tell the economic story
 -	Use simple and consistent design elements 
@@ -116,78 +116,8 @@ Good conclusions vary a lot.
 -	Limitations and directions for future research 
 -	Implications for economics and policy
 
-# The publication process at economics field journal
-
-Generally, two criteria: target audience/contribution you want to make, and journal impact factor.
-
-[Retracted Papers](https://retractionwatch.com/)
-
-## Find the right journal 
-
- Decide which journals are a good fit for your research and laid down a list of target journals. Send the paper ~one tier above where you think it belongs. If you have no idea, look at your reference and target the highest cited journal. A lot of journal like this to boost their impact factor.
-
-For agricultural econmics see these sources:
-* [A synthesis of journal rankings in Agricultural Economics and Environmental & Resource Economics](https://agrarpolitik-blog.com/2019/01/18/a-synthesis-of-journal-rankings-in-agricultural-economics-and-environmental-resource-economics/) - Bartosz Bartkowski, Nils Droste, Robert Finger
-* [Journal Ranking in Agricultural Economics & Policy](https://agrarpolitik-blog.com/2017/06/04/journal-ranking-in-agricultural-economics-policy/) – Robert Finger 
-* [Performance indicators for agricultural economic journals](https://weblog.wur.eu/economics/performance-indicators-for-agricultural-economic-journals/) - Robert Finger, Nils Droste, Bartosz Bartkowski and Frederic Ang
-
-## Review and acceptance 
-
-1. An editor will look at the paper and decide whether to send it out for review or “desk reject.” Editors do NOT read the entire paper carefully on submission, and most only carefully read the abstract and/or introduction. Editors are asking: Is this research interesting, novel, and important? Is this research likely of interest to readers of this journal? Does the paper appear competently communicated and competently executed? What you can do is to use the cover letter to explain why your paper is a good fit for that journal, by citing previous papers in that journal.
-2. Desk reject decisions typically take between 1 day and 1 month. Do not bother arguing with desk rejections. Some perspective: Desk rejects are not bad outcomes….Be reflective, but not obsessive, after desk rejections.
-3. The paper is under review. Wait! 2-5 months is now typical. You will eventually receive 1-4 referee reports (2-3 is most common) and a decision letter from the editor. The editor will most often be rejecting your paper. Almost all good journals have acceptance rates well below 10% (of a highly selected sample at the good journals). If you are lucky (and good), you will be invited to submit a revised manuscript addressing the editor and referee comments. The editor can accept, conditionally accept subject to minor changes, offer another ‘revise and resubmit,’ or reject after that. The whole process takes 0.5 years to several years at good journals. Over 1 year is the norm, not accounting for rejections.
-4. A biggest reason for rejection is a minimal or unclear contribution (originality [gaps] and importance [why is the gap important]). Why is this question important? Why is your analysis new? Empirical contribution and Conceptual contribution (i.e. what you learn from data vs what other people in the field learn from your analysis). Usually is policy contribution but keep in mind that the readers are not policy-makers (use blogs/policy briefs for them). Another big reason for rejection is poor writing. Poorly written papers confuse the reviewer and obscure contributions. You must get the abstract and intro ‘right.’  Other common reasons for rejection include: Poor fit for the journal. Conclusions that do not follow from the analysis. Uncited references. Too many themes.
+Once you wrote your article you need to publish it. You probably want to know how [the publication process at economics field journal](publication_process.html) works.
 
 # Selected references and readings
 
-*Suggested Books* <br>
-McCloskey, D. N. (2000). Economical writing. Waveland Press.<br> 
-Thomson, W. (2001). A guide for the young economist: writing and speaking effectively about economics. The MIT Press.<br> 
-Sword, H. (2012). Stylish Academic Writing. Harvard University Press.<br>
-*On Being An Economist*<br>
-Buchanan, James M. "What should economists do?." Southern Economic Journal (1964): 213-222.<br>
-Hamermesh, Daniel S. "An Old Male Economists Advice to Young Female Economists." CSWEP Newsletter (2005).<br>
-Hamermesh, Daniel S. "Doing Applied Economics: Normative and Positive Aspects," in S. Medema and W. Samuels, eds., Foundations of Research in Economics: How Do Economists Do Economics? Edward Elgar Press, 1996.<br>
-McCloskey, Deirdre N. "Aunt Deirdre's letter to a graduate student." Eastern Economic Journal 23.2 (1997): 241-244.<br>
-McCloskey, Donald N. "The rhetoric of economics." journal of Economic Literature 21.2 (1983): 481-517.<br>
-Samuelson, Paul A. "My life philosophy." The American Economist 27.2 (1983): 5-12.<br>
-Stavins, Robert N. ” Navigating a Two-Way Street Between Academia and the Policy World.” In Economics of Climate Change and Environmental Policy: Selected Papers of Robert N. Stavins 2000-2011, Edward Elgar, Inc. 2012.<br>
-*On Identifying Research Questions*<br>
-Dixit, A. "My system of work (not!)' in Passion and Craft: Economists at Work, ed. M. Szenberg." (1999).<br>
-Krugman, Paul. “How I Work.” MIT Working Paper.<br>
-Becker, Gary S. "The economic way of looking at life." Nobel Lecture, December 9.1992 (1992): 1991-1995.<br>
-Stigler, George J. "Nobel lecture: The process and progress of economics." The Journal of Political Economy (1983): 529-545.<br>
-Posner, Richard A. "Nobel laureate: Ronald Coase and methodology." The Journal of Economic Perspectives 7.4 (1993): 195-210.<br>
-Varian, Hal R. "How to build an economic model in your spare time." American Economist-Tuscaloosa- 41 (1997): 3-10.<br>
-*On Publishing*<br>
-Brorsen, B. Wade. "Observations on the journal publication process." North Central Journal of Agricultural Economics (1987): 315-321.<br>
-Choi, Kwan. "How to publish in top journals." Review of International Economics website, http://www. roie.org (2002).<br>
-Feldman, Daniel C. "The devil is in the details: Converting good research into publishable articles." Journal of management 30.1 (2004): 1-6.<br>
-Pannell, David J. "Prose, psychopaths and persistence: Personal perspectives on publishing." Canadian Journal of Agricultural Economics 50.2 (2002): 101-115.<br>
-*On Writing*
-Bellemare, Marc. “The Conclusion Formula.” University of Minnesota Working Paper.<br>
-Bellemare, Marc. “Between the Introduction and the Conclusion: The “Middle Bits” Formula for Applied Papers”. https://marcfbellemare.com/wordpress/12797 <br>
-Boonpramote, Thitisak. “Writing for Economics Journals: Elements of Publication Success.” Colorado School of Mines Working Paper 2000.<br>
-Fullerton, Don. “General Guidelines for Writing Research Papers.” University of Illinois WP.<br>
-Fullerton, Don. “Specific Guidelines for Writing Research Papers.” University of Illinois WP.<br>
-Head, Keith. “The Introduction Formula.” University of British Columbia WP.<br>
-Kremer, Michael. “Writing Papers: A Checklist.” Harvard University Working Paper.<br>
-Lamott, Anne. "Shitty First Drafts." Bird by Bird: Some Instructions on Writing and Life (2005): 21-26.<br>
-McCloskey, Deirdre. "Economical Writing: An Executive Summary." Eastern Economic Journal 25.2 (1999): 239-242.<br>
-Munger, Michael C. “10 tips on how to write less badly.” Chronicle of Higher Education. Sept 6, 2010.<br>
-Orwell, George. "Politics and the English language." (1945): 954-67.<br>
-Rasmusen, Eric. “Aphorisms on Writing, Speaking, and Listening.” in Readings in Games and Information, ed. Eric Rasmusen, Blackwell Publishers, 2001.<br>
-Shapiro, Jesse. “How to give an applied micro talk.” Chicago Booth and Brown University Working Papers.<br>
-Schwabish, J. A. (2014). An economist's guide to visualizing data. The Journal of Economic Perspectives, 28(1), 209-233.<br>
-*On the “Art” of Empirical Analysis*<br>
-Kennedy, Peter E. "Oh no! I got the wrong sign! What should i do?." The Journal of Economic Education 36.1 (2005): 77-92.<br>
-Kennedy, Peter E. "Sinning in the basement: What are the rules? The ten commandments of applied econometrics." Journal of Economic Surveys 16.4 (2002): 569-589.<br>
-Knittel, Christopher R., and Konstantinos Metaxoglou. "Working with Data: Two Empiricists’ Experience." Journal of Econometric Methods.<br>
-McCloskey, Deirdre N., and Stephen T. Ziliak. "The standard error of regressions." Journal of Economic Literature 34.1 (1996): 97-114.<br>
-*On Refereeing*<br>
-Berk, J.B., Harvey, C.R. and Hirshleifer, D., 2017. How to write an effective referee report and improve the scientific review process. The Journal of Economic Perspectives, 31(1), pp.231-244.<br>
-Choi, Kwan. “Being a good referee.” Review of International Economics<br>
-Haggerty, Kevin. “How to write an anonymous peer review.” Chronicle of Higher Education. April 12, 2012.<br>
-Hamermesh, Daniel S. "Facts and myths about refereeing." The Journal of Economic Perspectives 8.1 (1994): 153-163.<br>
-*On Professional Etiquette*<br>
-Hamermesh, Daniel S. "The young economist's guide to professional etiquette." The Journal of Economic Perspectives 6.1 (1992): 169-179.<br>
+Coming soon...

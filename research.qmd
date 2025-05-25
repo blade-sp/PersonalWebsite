@@ -3,9 +3,10 @@ title: "Research"
 format: html
 ---
 
-# Research
+## Projects
 
-[AgEnRes](https://agenres.eu/)
+- [Contracts2.0](https://www.project-contracts20.eu/)
+- [AgEnRes](https://agenres.eu/)
 
 ## Working Papers
 
@@ -16,3 +17,7 @@ format: html
 -   AES 2025 -- "Behavioral Preferences and Price Risk Management: A Systematic Literature Review"
 
 ------------------------------------------------------------------------
+
+## Teaching
+
+- *Teaching assistant* - R Practical in Analytics for Business Economics

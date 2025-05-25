@@ -3,7 +3,11 @@ title: "Resources"
 format: html
 ---
 
+## Writing
 
-[How to write academic paper](write.html)
+[How to write academic papers](write.html) <br><br>
+[The publication process](publication_process.qmd)
+
+## Analysis
 
 ------------------------------------------------------------------------
