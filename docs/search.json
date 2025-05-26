@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "PhD candidate  Business Economics group  Wageningen University & Research  riccardo.spada@wur.nl\n\n\nHi, I’m Riccardo — a PhD student in Agricultural Economics. This is my academic website where I share my research, notes, and random stuff.\n\n\nAbout Me\nI’m currently based in The Netherlands where I’m pursuing my PhD in Agricultural Economics with the Business Economic group at Wageningen University & Research.\nMy research focuses on risk management, behavioral economics, and resilience in agri-food systems."
+    "text": "PhD candidate  Business Economics group  Wageningen University & Research  riccardo.spada@wur.nl\nHi, I’m Riccardo — a PhD student in Agricultural Economics. This is my academic website where I share my research, notes, and random stuff."
   },
   {
     "objectID": "index.html#about",
@@ -222,5 +222,12 @@
     "title": "Resources",
     "section": "Analysis",
     "text": "Analysis"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "About Me",
+    "text": "About Me\nI’m currently based in The Netherlands where I’m pursuing my PhD in Agricultural Economics with the Business Economic group at Wageningen University & Research.\nMy research focuses on risk management, behavioral economics, and resilience in agri-food systems."
   }
 ]

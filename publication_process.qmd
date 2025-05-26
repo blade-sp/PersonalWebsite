@@ -1,6 +1,9 @@
 ---
 title: "The publication process at economics field journal"
-format: html
+format: 
+  html:
+    toc: true
+    toc-depth: 2
 ---
 
 ## Find the right journal 
