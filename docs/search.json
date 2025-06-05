@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "PhD candidate  Business Economics group  Wageningen University & Research  riccardo.spada@wur.nl\nHi, I’m Riccardo — a PhD student in Agricultural Economics. This is my academic website where I share my research, notes, and random stuff."
+    "text": "PhD candidate  Business Economics group  Wageningen University & Research  riccardo.spada@wur.nl"
   },
   {
     "objectID": "index.html#about",
@@ -32,7 +32,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "You can download my CV here."
+    "text": "You can download my single page CV here.\n&lt;–! longer version –&gt;"
   },
   {
     "objectID": "cv.html#cv",
@@ -60,7 +60,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Contracts2.0\nAgEnRes"
+    "text": "My research focuses on agricultural economics and finance, risk management in agriculture, agricultural policy, and resilience in agri-food systems."
   },
   {
     "objectID": "research.html#working-papers",
@@ -87,71 +87,71 @@
     "objectID": "write.html#general-issues",
     "href": "write.html#general-issues",
     "title": "How to Write an Academic Papers",
-    "section": "General issues",
-    "text": "General issues\nLanguage - Obviously, write in English for a broader audience. In many cases, you can request to the journal the permission to publish in another language somewhere else.\nAuthorship - Try to publish a single author paper ASAP.\nEdited volumes and chapters - Often you receive an invitation. Very expensive, not a lot of viewership (ppl have to buy the entire book). You can first publish the same material. Often they take a long time to produce."
+    "section": "1.1 General issues",
+    "text": "1.1 General issues\nLanguage - Obviously, write in English for a broader audience. In many cases, you can request to the journal the permission to publish in another language somewhere else.\nAuthorship - Try to publish a single author paper ASAP.\nEdited volumes and chapters - Often you receive an invitation. Very expensive, not a lot of viewership (ppl have to buy the entire book). You can first publish the same material. Often they take a long time to produce."
   },
   {
     "objectID": "write.html#practical-tips",
     "href": "write.html#practical-tips",
     "title": "How to Write an Academic Papers",
-    "section": "Practical tips",
-    "text": "Practical tips\n\nStudy what interests you. You will not work hard enough, or smart enough, otherwise.\nTalk to people about research all of the time. Do not be shy or humble. Attend seminars and conferences.\nBe persistent and do not get discouraged. Expect and accept rejection.\nPerfection is a standard that can never be achieved.\nThe research process is non-linear. Be prepared to go back to earlier stages of the research process and refine your questions, approach, etc.\n\nPractical Tips for Writing and Publishing Applied Economics Papers - Timothy Beatty & Jay P. Shimshack\nResearch ≠ Analysis. Research is telling a “story” – to other scholars, policymakers, students, etc. Analysis is an important, but small part, of research. Most young researchers forget this last point."
+    "section": "1.2 Practical tips",
+    "text": "1.2 Practical tips\n\nStudy what interests you. You will not work hard enough, or smart enough, otherwise.\nTalk to people about research all of the time. Do not be shy or humble. Attend seminars and conferences.\nBe persistent and do not get discouraged. Expect and accept rejection.\nPerfection is a standard that can never be achieved.\nThe research process is non-linear. Be prepared to go back to earlier stages of the research process and refine your questions, approach, etc.\n\nPractical Tips for Writing and Publishing Applied Economics Papers - Timothy Beatty & Jay P. Shimshack\nResearch ≠ Analysis. Research is telling a “story” – to other scholars, policymakers, students, etc. Analysis is an important, but small part, of research. Most young researchers forget this last point."
   },
   {
     "objectID": "write.html#title",
     "href": "write.html#title",
     "title": "How to Write an Academic Papers",
-    "section": "Title",
-    "text": "Title"
+    "section": "2.1 Title",
+    "text": "2.1 Title"
   },
   {
     "objectID": "write.html#abstract",
     "href": "write.html#abstract",
     "title": "How to Write an Academic Papers",
-    "section": "Abstract",
-    "text": "Abstract"
+    "section": "2.2 Abstract",
+    "text": "2.2 Abstract"
   },
   {
     "objectID": "write.html#keywords",
     "href": "write.html#keywords",
     "title": "How to Write an Academic Papers",
-    "section": "Keywords",
-    "text": "Keywords\nThey are needed to improve visibility of your research. Try not to repeat title words."
+    "section": "2.3 Keywords",
+    "text": "2.3 Keywords\nThey are needed to improve visibility of your research. Try not to repeat title words."
   },
   {
     "objectID": "write.html#jel-codes",
     "href": "write.html#jel-codes",
     "title": "How to Write an Academic Papers",
-    "section": "JEL codes",
-    "text": "JEL codes\nThe JEL classification system was developed for use in the Journal of Economic Literature (JEL), and is a standard method of classifying scholarly literature in the field of economics.\nJEL Classification System"
+    "section": "2.4 JEL codes",
+    "text": "2.4 JEL codes\nThe JEL classification system was developed for use in the Journal of Economic Literature (JEL), and is a standard method of classifying scholarly literature in the field of economics.\nJEL Classification System"
   },
   {
     "objectID": "write.html#good-research-questions",
     "href": "write.html#good-research-questions",
     "title": "How to Write an Academic Papers",
-    "section": "Good research questions",
-    "text": "Good research questions\nWhat makes a good research question? - The question is important if X changes: Many people are worse off or better off. Important subpopulations are far better off or far worse off. - The question is controversial or puzzling. Test of an important theoretical prediction. - The subject is very common or involves large outlays of social resources.\nA good question will often complete the following statements: “I wonder if ….” ; “It is interesting that …”. If you can’t convince yourself that your research question falls into one of these categories, you may need a new question."
+    "section": "3.1 Good research questions",
+    "text": "3.1 Good research questions\nWhat makes a good research question? - The question is important if X changes: Many people are worse off or better off. Important subpopulations are far better off or far worse off. - The question is controversial or puzzling. Test of an important theoretical prediction. - The subject is very common or involves large outlays of social resources.\nA good question will often complete the following statements: “I wonder if ….” ; “It is interesting that …”. If you can’t convince yourself that your research question falls into one of these categories, you may need a new question."
   },
   {
     "objectID": "write.html#research-gaps",
     "href": "write.html#research-gaps",
     "title": "How to Write an Academic Papers",
-    "section": "Research gaps",
-    "text": "Research gaps\nDon’t stress the “gap” but instead frame what you are doing in terms of “contribution”, “new perspective”, or generally add to the literature. Otherwise it can be attacked."
+    "section": "3.2 Research gaps",
+    "text": "3.2 Research gaps\nDon’t stress the “gap” but instead frame what you are doing in terms of “contribution”, “new perspective”, or generally add to the literature. Otherwise it can be attacked."
   },
   {
     "objectID": "write.html#what-to-put-here",
     "href": "write.html#what-to-put-here",
     "title": "How to Write an Academic Papers",
-    "section": "What to put here?",
-    "text": "What to put here?\n\nTheoretical Framework\nEmpirical Framework\nData and Descriptive Statistics\nResults and Discussion\n\n\nTips:\n\nNo separate “literature review” section. Your literature review should be a one-paragraph affair in your introduction explaining how your work relates to the closest five to seven studies on the topic.\nYou might want to have a section titled “Background” between the introduction and the theoretical framework. This is especially so when you study a legislative change, a new policy whose details are important or, in an IO paper, the features of the market you are studying. This can either be a substitute for or a complement to the theoretical framework.\nYou might not need a theoretical framework. Some questions are old and the theory behind them is well documented and does not need to be restated.\nThe order between the “Empirical Framework” and “Data and Descriptive Statistics” sections can sometimes be switched. Go with what is logical here.\nLimitations should be emphasized. This is especially true if your work has any policy relevance; you don’t want anyone to interpret your results in ways they should not be interpreted."
+    "section": "4.1 What to put here?",
+    "text": "4.1 What to put here?\n\nTheoretical Framework\nEmpirical Framework\nData and Descriptive Statistics\nResults and Discussion\n\n\n4.1.1 Tips:\n\nNo separate “literature review” section. Your literature review should be a one-paragraph affair in your introduction explaining how your work relates to the closest five to seven studies on the topic.\nYou might want to have a section titled “Background” between the introduction and the theoretical framework. This is especially so when you study a legislative change, a new policy whose details are important or, in an IO paper, the features of the market you are studying. This can either be a substitute for or a complement to the theoretical framework.\nYou might not need a theoretical framework. Some questions are old and the theory behind them is well documented and does not need to be restated.\nThe order between the “Empirical Framework” and “Data and Descriptive Statistics” sections can sometimes be switched. Go with what is logical here.\nLimitations should be emphasized. This is especially true if your work has any policy relevance; you don’t want anyone to interpret your results in ways they should not be interpreted."
   },
   {
     "objectID": "write.html#visualizations",
     "href": "write.html#visualizations",
     "title": "How to Write an Academic Papers",
-    "section": "Visualizations",
-    "text": "Visualizations\nEvery part of your paper should quickly support the story. Read Schwabish, 2014\nA good picture can be worth much more than a thousand words\nData visualization principles: - show the data to tell the economic story - Use simple and consistent design elements - Avoid clutter and unnecessary complexity (focus on key points, the story) - Integrate text with graphs to transfer information quickly Best practices: - Using clear and concise labels - Avoiding 3D effects and unnecessary animation - Providing context and scale information - Using interactive visualizations when appropriate"
+    "section": "4.2 Visualizations",
+    "text": "4.2 Visualizations\nEvery part of your paper should quickly support the story. Read Schwabish, 2014\nA good picture can be worth much more than a thousand words\nData visualization principles: - show the data to tell the economic story - Use simple and consistent design elements - Avoid clutter and unnecessary complexity (focus on key points, the story) - Integrate text with graphs to transfer information quickly Best practices: - Using clear and concise labels - Avoiding 3D effects and unnecessary animation - Providing context and scale information - Using interactive visualizations when appropriate"
   },
   {
     "objectID": "write.html#find-the-right-journal",
@@ -185,15 +185,15 @@
     "objectID": "publication_process.html#review-and-acceptance",
     "href": "publication_process.html#review-and-acceptance",
     "title": "The publication process at economics field journal",
-    "section": "Review and acceptance",
-    "text": "Review and acceptance\n\nThe journal editor will look at the paper and decide whether to send it out for review or “desk reject”. Editors are asking: Is this research interesting, novel, and important? Is this research likely of interest to readers of this journal? Does the paper appear competently communicated and competently executed? What you can do is to use the cover letter to explain why your paper is a good fit for that journal, by citing previous papers in that journal.\nDesk reject decisions typically take between 1 day and 1 month. Do not bother arguing with desk rejections. Some perspective: Desk rejects are not bad outcomes….Be reflective, but not obsessive, after desk rejections.\nIf not desk rejected, the paper is under review. Wait! 2-5 months is now typical. You will eventually receive 1-4 referee reports (2-3 is most common) and a decision letter from the editor. The editor will most often be rejecting your paper. Almost all good journals have acceptance rates well below 10% (of a highly selected sample at the good journals). If you are lucky (and good), you will be invited to submit a revised manuscript addressing the editor and referee comments. The editor can accept, conditionally accept subject to minor changes, offer another ‘revise and resubmit,’ or reject after that. The whole process takes 0.5 years to several years at good journals. Over 1 year is the norm, not accounting for rejections.\nA biggest reason for rejection is a minimal or unclear contribution (originality [gaps] and importance [why is the gap important]). Why is this question important? Why is your analysis new? Empirical contribution and Conceptual contribution (i.e. what you learn from data vs what other people in the field learn from your analysis). Usually is policy contribution but keep in mind that the readers are not policy-makers (use blogs/policy briefs for them). Another big reason for rejection is poor writing. Poorly written papers confuse the reviewer and obscure contributions. You must get the abstract and intro ‘right.’ Other common reasons for rejection include: Poor fit for the journal. Conclusions that do not follow from the analysis. Uncited references. Too many themes."
+    "section": "2 Review and acceptance",
+    "text": "2 Review and acceptance\n\nThe journal editor will look at the paper and decide whether to send it out for review or “desk reject”. Editors are asking: Is this research interesting, novel, and important? Is this research likely of interest to readers of this journal? Does the paper appear competently communicated and competently executed? What you can do is to use the cover letter to explain why your paper is a good fit for that journal, by citing previous papers in that journal.\nDesk reject decisions typically take between 1 day and 1 month. Do not bother arguing with desk rejections. Some perspective: Desk rejects are not bad outcomes….Be reflective, but not obsessive, after desk rejections.\nIf not desk rejected, the paper is under review. Wait! 2-5 months is now typical. You will eventually receive 1-4 referee reports (2-3 is most common) and a decision letter from the editor. The editor will most often be rejecting your paper. Almost all good journals have acceptance rates well below 10% (of a highly selected sample at the good journals). If you are lucky (and good), you will be invited to submit a revised manuscript addressing the editor and referee comments. The editor can accept, conditionally accept subject to minor changes, offer another ‘revise and resubmit,’ or reject after that. The whole process takes 0.5 years to several years at good journals. Over 1 year is the norm, not accounting for rejections.\nA biggest reason for rejection is a minimal or unclear contribution (originality [gaps] and importance [why is the gap important]). Why is this question important? Why is your analysis new? Empirical contribution and Conceptual contribution (i.e. what you learn from data vs what other people in the field learn from your analysis). Usually is policy contribution but keep in mind that the readers are not policy-makers (use blogs/policy briefs for them). Another big reason for rejection is poor writing. Poorly written papers confuse the reviewer and obscure contributions. You must get the abstract and intro ‘right.’ Other common reasons for rejection include: Poor fit for the journal. Conclusions that do not follow from the analysis. Uncited references. Too many themes."
   },
   {
     "objectID": "publication_process.html#selected-references-and-readings",
     "href": "publication_process.html#selected-references-and-readings",
     "title": "The publication process at economics field journal",
-    "section": "Selected references and readings",
-    "text": "Selected references and readings\nComing soon…"
+    "section": "3 Selected references and readings",
+    "text": "3 Selected references and readings\nComing soon…"
   },
   {
     "objectID": "research.html#teaching",
@@ -206,8 +206,8 @@
     "objectID": "research.html#projects",
     "href": "research.html#projects",
     "title": "Research",
-    "section": "",
-    "text": "Contracts2.0\nAgEnRes"
+    "section": "Projects",
+    "text": "Projects\n\nContracts2.0\nAgEnRes"
   },
   {
     "objectID": "resources.html#writing",
@@ -228,6 +228,6 @@
     "href": "index.html#about-me",
     "title": "Welcome",
     "section": "About Me",
-    "text": "About Me\nI’m currently based in The Netherlands where I’m pursuing my PhD in Agricultural Economics with the Business Economic group at Wageningen University & Research.\nMy research focuses on risk management, behavioral economics, and resilience in agri-food systems."
+    "text": "About Me\n\nI’m currently based in The Netherlands where I’m pursuing my PhD in Agricultural Economics with the Business Economic group at Wageningen University & Research."
   }
 ]

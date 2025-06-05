@@ -3,6 +3,8 @@ title: "Research"
 format: html
 ---
 
+My research focuses on agricultural economics and finance, risk management in agriculture, agricultural policy, and resilience in agri-food systems.
+
 ## Projects
 
 - [Contracts2.0](https://www.project-contracts20.eu/)

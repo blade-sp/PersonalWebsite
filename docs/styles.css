@@ -1,7 +1,26 @@
 body {
     font-family: "Helvetica Neue", sans-serif;
+    background: #f8fafc;
+    color: #222;
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
   }
   
   .navbar-brand {
     font-weight: bold;
   }
+
+/* horizontal rule */
+hr, .quarto-hr {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 2em 0;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #d1d5db;
+}

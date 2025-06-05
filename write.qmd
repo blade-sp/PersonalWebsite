@@ -4,6 +4,7 @@ format:
   html:
     toc: true
     toc-depth: 2
+    number-sections: true
 ---
 
 The material I present here is a collection of tips from supervisors, colleagues, online resources, and the extracts from the course [Academic Publication and Presentation in the Social Sciences](https://www.wur.nl/en/activity/academic-publication-and-presentation-in-the-social-sciences-4-ects.htm) course organized by Wageningen School of Social Sciences ([WASS](https://www.wur.nl/en/show/wageningen-school-of-social-sciences-wass.htm)). It is everything I would have wanted to know at the start of my PhD journey.
@@ -32,7 +33,7 @@ Research ≠ Analysis. Research is telling a “story” – to other scholars, 
 
 # Title page
 
-It can be helpful to write the title and abstract before you start your paper, and then rewrite them later.
+Tip: for a new paper, it can be helpful to write the title and abstract before you start your paper, and then rewrite them later.
 
 ## Title 
 
