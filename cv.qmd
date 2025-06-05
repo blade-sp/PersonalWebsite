@@ -3,6 +3,6 @@ title: "CV"
 format: html
 ---
 
-You can download my single page CV [here](cv/cv.pdf).
+You can download my single page CV [here](assets/cv.pdf).
 
 ------------------------------------------------------------------------
