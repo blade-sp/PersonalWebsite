@@ -4,24 +4,26 @@ This repository contains the source code and content for my personal website. Th
 
 ## Features
 
-- **CV Download:** Up-to-date PDF version of my curriculum vitae.
 - **About Me:** Brief introduction and background.
 - **Projects:** Highlights of selected academic and personal projects.
 - **Contact:** Links to email, LinkedIn, and GitHub.
+- **CV Download:** Up-to-date PDF version of my curriculum vitae.
 
 ## Structure
 
 ```
 PersonalWebsite/
-├── cv/             # Contains the latest CV PDF
-├── assets/         # Images and other static files
+├── README.md       # This file
+├── assets/         # Images and cv files
 ├── index.html      # Main landing page
-├── ...             # Other HTML, CSS, JS files
+├── research.html   # Research and projects page
+├── resources.html  # Resources and links page
+├── cv.html         # CV download page
 ```
 
 ## Deployment
 
-The website is deployed via GitHub Pages. Any changes pushed to the `main` branch will be published automatically.
+The website is deployed via GitHub Pages. 
 
 ## Contact
 

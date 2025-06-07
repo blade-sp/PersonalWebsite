@@ -18,6 +18,10 @@ hr, .quarto-hr {
     margin: 2em 0;
 }
 
+.center {
+  text-align: center;
+}
+
 img {
     border-radius: 8px;
     max-width: 100%;

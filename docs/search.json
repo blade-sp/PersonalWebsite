@@ -30,9 +30,9 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "You can download my single page CV here."
+    "text": "You can download my cv here."
   },
   {
     "objectID": "cv.html#cv",
@@ -229,5 +229,40 @@
     "title": "Welcome",
     "section": "About Me",
     "text": "About Me\n\nI’m currently based in The Netherlands where I’m pursuing my PhD in Agricultural Economics with the Business Economic group at Wageningen University & Research."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nTeaching Assistant, Wageningen University & Research\nAssisting in the R practicals for the course Analytics for Business Economics.  2024\nPolicy Analyst (Intern), OECD\nInternship in the Agricultural and Resource Policy division at the Trade and Agriculture Directorate (TAD-ARP).  2023–2024\nResearch Assistant, Swedish University of Agricultural Sciences (SLU)\nData cleaning for the EU-Horizon project “Contracts2.0”.  2022–2023"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Agricultural Economics\nWageningen University & Research, Netherlands\n2024–Present\nAFEPA Double Degree Program\nAgricultural, Food, and Environmental Policy Analysis\n2021–2024\n\nMSc in Business and Economics, Swedish University of Agricultural Sciences (SLU), Sweden\nMSc in Agricultural and Food Economics, Catholic University of Sacred Heart, Italy\n\nBSc in Biotechnology\nUniversity of Verona, Italy\n2017–2021"
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Data Analyst Professional Certificate\nCoursera, Feb 2023\nIELTS English level C1\nBritish Council, Oct 2021"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: STATA, R, Python, SQL, LaTeX, Git\nLanguages: English (fluent), Italian (fluent), Spanish (basic), French (basic)"
+  },
+  {
+    "objectID": "cv.html#riccardo.spadawur.nl-linkedin-github",
+    "href": "cv.html#riccardo.spadawur.nl-linkedin-github",
+    "title": "Curriculum Vitae",
+    "section": "riccardo.spada@wur.nl | LinkedIn | GitHub",
+    "text": "riccardo.spada@wur.nl | LinkedIn | GitHub"
   }
 ]
