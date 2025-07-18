@@ -7,15 +7,15 @@ site-url: "https://blade-sp.github.io/PersonalWebsite/"
 website:
   title: "Riccardo Spada"
   navbar:
-    left:
+    right:
       - text: Home
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Resources
-        href: resources.qmd
       - text: CV
         href: cv.qmd
+      - text: Resources
+        href: resources.qmd
   page-footer:
     left: "© 2025 Riccardo Spada"
     right: "Made with [Quarto](https://quarto.org)"

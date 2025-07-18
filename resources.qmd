@@ -5,9 +5,11 @@ format: html
 
 ## Writing
 
-[How to write academic papers](write.html) <br><br>
-[The publication process](publication_process.qmd)
+[How to write academic papers](resources/write.qmd) <br><br>
+[The publication process](resources/publication_process.qmd)
 
-## Analysis
+## Notes
+
+[Decision-making under ambiguity](resources/ambiguity.qmd)
 
 ------------------------------------------------------------------------
