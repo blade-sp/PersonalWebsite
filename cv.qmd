@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-You can download my cv [here](assets/cv.pdf).
+You can download the pdf format of my cv [here](assets/cv.pdf).
 
 <div class="center">
 
@@ -14,10 +14,6 @@ You can download my cv [here](assets/cv.pdf).
 </div>
 
 ## Experience
-
-- **Teaching Assistant**, Wageningen University & Research    
-  Assisting in the R practicals for the course Analytics for Business Economics. <br>
-  *2024*
 
 - **Policy Analyst (Intern)**, OECD   
   Internship in the Agricultural and Resource Policy division at the Trade and Agriculture Directorate (TAD-ARP). <br>
