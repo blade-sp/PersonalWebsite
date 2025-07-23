@@ -32,7 +32,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "You can download my cv here."
+    "text": "You can download the pdf format of my cv here."
   },
   {
     "objectID": "cv.html#cv",
@@ -235,7 +235,7 @@
     "href": "cv.html#experience",
     "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\n\nTeaching Assistant, Wageningen University & Research\nAssisting in the R practicals for the course Analytics for Business Economics.  2024\nPolicy Analyst (Intern), OECD\nInternship in the Agricultural and Resource Policy division at the Trade and Agriculture Directorate (TAD-ARP).  2023–2024\nResearch Assistant, Swedish University of Agricultural Sciences (SLU)\nData cleaning for the EU-Horizon project “Contracts2.0”.  2022–2023"
+    "text": "Experience\n\nPolicy Analyst (Intern), OECD\nInternship in the Agricultural and Resource Policy division at the Trade and Agriculture Directorate (TAD-ARP).  2023–2024\nResearch Assistant, Swedish University of Agricultural Sciences (SLU)\nData cleaning for the EU-Horizon project “Contracts2.0”.  2022–2023"
   },
   {
     "objectID": "cv.html#education",
@@ -264,5 +264,40 @@
     "title": "Curriculum Vitae",
     "section": "riccardo.spada@wur.nl | LinkedIn | GitHub",
     "text": "riccardo.spada@wur.nl | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Welcome",
+    "section": "Research",
+    "text": "Research\nMy research focuses on agricultural economics and finance, risk management in agriculture, agricultural policy, and resilience in agri-food systems.\n\nProjects\n\nContracts2.0\nAgEnRes\n\n\n\nWorking Papers\n\nBehavioral Preferences and Price Risk Management: A Systematic Literature Review\n\n\nConference Presentations\n\nAES 2025 – “Behavioral Preferences and Price Risk Management: A Systematic Literature Review”"
+  },
+  {
+    "objectID": "resources.html#notes",
+    "href": "resources.html#notes",
+    "title": "Resources",
+    "section": "Notes",
+    "text": "Notes\nDecision-making under ambiguity"
+  },
+  {
+    "objectID": "ambiguity.html",
+    "href": "ambiguity.html",
+    "title": "Decision making under ambiguity",
+    "section": "",
+    "text": "Ellsberg (1961) proposed a thought experiment that showed how people often prefer known risks over unknown risks, even when the expected outcomes are the same. This contradicts the predictions of standard expected utility theory.\nThe Ellsberg Paradox compare 2 events: a risky event is known to occur with probability one half (known odds), whereas no information is given about the other, ambiguous, event (unknown odds). People prefer a bet on the risky event to a bet on the ambiguous event.\nAccording to Knight (1921), risks refer to situations where the probability distribution of the random variable is known, while uncertainties refer to situations where the probability distribution is not known or cannot be objectively determined. A further distinction can be made between uncertainty and ambiguity. Under uncertainty, decision makers are able to form a well-defined (subjective) probability distribution, while under ambiguity they do not (Harrison, 2011).\nUnlike risk, where probabilities of different outcomes can be estimated from historical data, ambiguity arises when the probability distribution of outcomes is unknown (i.e. they are not available or decision-makers doesn’t know them). People typically show ambiguity aversion, preferring known probabilities over unknown ones, even if the outcomes are mathematically equivalent.\nIn this context decision models under ambiguity might be a better fit to explain farmers behaviour as they account for ambiguity aversion. Several models under ambiguity have been proposed, and are broadly divided into those that use second-order probabilities and those that do not (see also Ilut & Schneider (2022) for a review of applications of ambiguity models in macroeconomics and finance)."
+  },
+  {
+    "objectID": "ambiguity.html#subjective-expected-utility",
+    "href": "ambiguity.html#subjective-expected-utility",
+    "title": "Decision making under ambiguity",
+    "section": "1 Subjective Expected Utility",
+    "text": "1 Subjective Expected Utility\nLet’s use as a starting point Subjective Expected Utility (SEU) theory (Savage, 1954). Here the decision-maker attach subjective probabilities to the various possible events. He/She thus maximize Expected Utility with respect to a single subjective belief (probability distribution). Given \\(n\\) possible events, the preference functional is given by: \\[\nSEU = \\sum^n_{i=1} p_i u_i\n\\] where \\(p_i\\) is the subjective probability that even \\(E_i\\) occurs, so that \\(p_i = Prob(E_i)\\) for all \\(i\\), and \\(p_1 + p_2 + ... + p_n = 1\\).\nSEU does not capture ambiguity because the decision-maker behaves as if they know the probabilities of all uncertain events, even if they’re “subjectively assigned”."
+  },
+  {
+    "objectID": "ambiguity.html#multiple-priors-models",
+    "href": "ambiguity.html#multiple-priors-models",
+    "title": "Decision making under ambiguity",
+    "section": "2 Multiple priors models",
+    "text": "2 Multiple priors models\nSeveral decision models have been proposed which extend SEU in order to allow a role for ambiguity in decision making. Most notable are the ‘‘maxmin expected utility with multiple priors’’ (MEU) model of Gilboa and Schmeidler (1989), which allows the agent’s beliefs to be represented by a set of probabilities, and the ‘‘Choquet expected utility’’ (CEU) model of Schmeidler (1989), which allows the agent’s beliefs to be represented by a unique but nonadditive probability.\n\n2.1 MinMax Expected Utility\nThe key innovation was to represent preferences using sets of beliefs \\(\\mathcal{P}\\) (multiple priors). Ambiguity can then be described by the size of this belief set. If this set of beliefs contain only on prior, the model reduces to the standard SEU. The MinMax EU model (Gilboa and Schmeidler, 1989) assumes that agents have multiple priors \\(p\\in\\mathcal{P}\\) , and that they deal with ambiguity by acting as if they were using the most pessimistic belief of this set.\n\nInstead of a single known probability distribution, there is a set of plausible distributions. The decision-maker maximizes utility under the worst-case distribution from this set.\n\nBasically, the agent pick the strategy that performs best in the worst-case scenario of expected utility.\nLet \\(A\\) a set of possible actions, \\(S\\) a set of possible states of the world, and \\(u(a,s)\\) the utility of action \\(a∈A\\) in state \\(s∈S\\). The decision-maker has a set of plausible probability distributions \\((\\mathcal{P})\\) over \\(S\\). Then the agent chooses \\(a∗∈A\\) such that: \\[\na∗=\\arg\\max_{a \\in A} \\left( \\min_{P \\in \\mathcal{P}} \\mathbb{E}_P[u(a, s)] \\right)\n\\] This model assumes that the decision-maker is extremely averse to ambiguity by always considering the worst case scenario.\n\n\n2.2 Alpha Expected Utility\nThe Alpha Expected Utility proposed by Ghirardato et al. (2004) is an generalization of the MinMax EU model that relax the assumption that decision-makers are extremely averse to ambiguity.\nConsidering an ambiguous context in which the farmer only knows that the probability of a loss \\((p)\\) lies in a certain interval \\(P \\in [p_{min},p_{max}]\\), risk and ambiguity preferences are represented with the AEU model as: \\[\n\\max EU = \\alpha E_{p_{max}}U(x) + (1 - \\alpha)E_{p_{min}}U(x)\n\\] Where \\(\\alpha \\in [1,0]\\) is the decision-maker ambiguity attitude.\nAmbiguity \\(a\\) is defined as the diameter of the interval \\(P\\), \\(a=p_{max}-p_{min}\\). The maximisation problem can be rewritten as: \\[\nmaxEU = [\\bar p - a(1/2-\\alpha)]U(x) + [1-\\bar p + a(1/2 - \\alpha)]U(x)\n\\] where \\(\\bar p = (p_{min} + p_{max})/2\\) is the mean probability of incurring the loss calculated as the center of the interval \\(P\\)."
   }
 ]

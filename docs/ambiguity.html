@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Resources – Riccardo Spada</title>
+<title>Decision making under ambiguity – Riccardo Spada</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,11 +68,40 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -98,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./resources.html" aria-current="page"> 
+    <a class="nav-link" href="./resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -112,13 +141,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#subjective-expected-utility" id="toc-subjective-expected-utility" class="nav-link active" data-scroll-target="#subjective-expected-utility"><span class="header-section-number">1</span> Subjective Expected Utility</a></li>
+  <li><a href="#multiple-priors-models" id="toc-multiple-priors-models" class="nav-link" data-scroll-target="#multiple-priors-models"><span class="header-section-number">2</span> Multiple priors models</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
+<h1 class="title">Decision making under ambiguity</h1>
 </div>
 
 
@@ -135,16 +173,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="writing" class="level2">
-<h2 class="anchored" data-anchor-id="writing">Writing</h2>
-<p><a href="./write.html">How to write academic papers</a> <br><br> <a href="./publication_process.html">The publication process</a></p>
+<p>Ellsberg (1961) proposed a thought experiment that showed how people often prefer known risks over unknown risks, even when the expected outcomes are the same. This contradicts the predictions of standard expected utility theory.</p>
+<p>The Ellsberg Paradox compare 2 events: a <em>risky</em> event is known to occur with probability one half (known odds), whereas no information is given about the other, <em>ambiguous</em>, event (unknown odds). People prefer a bet on the risky event to a bet on the ambiguous event.</p>
+<blockquote class="blockquote">
+<p><strong>Ellsberg Paradox</strong>: People violate expected utility theory by avoiding ambiguous options.</p>
+</blockquote>
+<p>According to Knight (1921), risks refer to situations where the probability distribution of the random variable is known, while uncertainties refer to situations where the probability distribution is not known or cannot be objectively determined. A further distinction can be made between uncertainty and ambiguity. Under uncertainty, decision makers are able to form a well-defined (subjective) probability distribution, while under ambiguity they do not (Harrison, 2011).</p>
+<p>Unlike risk, where probabilities of different outcomes can be estimated from historical data, ambiguity arises when the probability distribution of outcomes is unknown (i.e.&nbsp;they are not available or decision-makers doesn’t know them). People typically show <strong>ambiguity aversion</strong>, preferring known probabilities over unknown ones, even if the outcomes are mathematically equivalent.</p>
+<p>In this context decision models under ambiguity might be a better fit to explain farmers behaviour as they account for ambiguity aversion. Several models under ambiguity have been proposed, and are broadly divided into those that use second-order probabilities and those that do not (see also Ilut &amp; Schneider (2022) for a review of applications of ambiguity models in macroeconomics and finance).</p>
+<section id="subjective-expected-utility" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="subjective-expected-utility"><span class="header-section-number">1</span> Subjective Expected Utility</h2>
+<p>Let’s use as a starting point Subjective Expected Utility (SEU) theory (Savage, 1954). Here the decision-maker attach <em>subjective probabilities</em> to the various possible events. He/She thus <strong>maximize Expected Utility</strong> with respect to <strong>a single subjective belief (probability distribution)</strong>. Given <span class="math inline">\(n\)</span> possible events, the preference functional is given by: <span class="math display">\[
+SEU = \sum^n_{i=1} p_i u_i
+\]</span> where <span class="math inline">\(p_i\)</span> is the subjective probability that even <span class="math inline">\(E_i\)</span> occurs, so that <span class="math inline">\(p_i = Prob(E_i)\)</span> for all <span class="math inline">\(i\)</span>, and <span class="math inline">\(p_1 + p_2 + ... + p_n = 1\)</span>.</p>
+<p>SEU does not capture ambiguity because the decision-maker behaves <strong>as if they know the probabilities</strong> of all uncertain events, even if they’re “subjectively assigned”.</p>
 </section>
-<section id="notes" class="level2">
-<h2 class="anchored" data-anchor-id="notes">Notes</h2>
-<p><a href="./ambiguity.html">Decision-making under ambiguity</a></p>
+<section id="multiple-priors-models" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="multiple-priors-models"><span class="header-section-number">2</span> Multiple priors models</h2>
+<p>Several decision models have been proposed which extend SEU in order to allow a role for ambiguity in decision making. Most notable are the ‘‘maxmin expected utility with multiple priors’’ (MEU) model of Gilboa and Schmeidler (1989), which allows the agent’s beliefs to be represented by a set of probabilities, and the ‘‘Choquet expected utility’’ (CEU) model of Schmeidler (1989), which allows the agent’s beliefs to be represented by a unique but nonadditive probability.</p>
+<section id="minmax-expected-utility" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="minmax-expected-utility"><span class="header-section-number">2.1</span> MinMax Expected Utility</h3>
+<p>The key innovation was to represent preferences using sets of beliefs <span class="math inline">\(\mathcal{P}\)</span> (multiple priors). Ambiguity can then be described by the size of this belief set. If this set of beliefs contain only on prior, the model reduces to the standard SEU. The MinMax EU model (Gilboa and Schmeidler, 1989) assumes that agents have multiple priors <span class="math inline">\(p\in\mathcal{P}\)</span> , and that they deal with ambiguity by acting as if they were using the most pessimistic belief of this set.</p>
+<blockquote class="blockquote">
+<p>Instead of a single known probability distribution, there is a <strong>set of plausible distributions</strong>. The decision-maker <strong>maximizes utility under the worst-case distribution</strong> from this set.</p>
+</blockquote>
+<p>Basically, the agent pick the strategy that performs best in the worst-case scenario of expected utility.</p>
+<p>Let <span class="math inline">\(A\)</span> a set of possible actions, <span class="math inline">\(S\)</span> a set of possible states of the world, and <span class="math inline">\(u(a,s)\)</span> the utility of action <span class="math inline">\(a∈A\)</span> in state <span class="math inline">\(s∈S\)</span>. The decision-maker has a set of plausible probability distributions <span class="math inline">\((\mathcal{P})\)</span> over <span class="math inline">\(S\)</span>. Then the agent chooses <span class="math inline">\(a∗∈A\)</span> such that: <span class="math display">\[
+a∗=\arg\max_{a \in A} \left( \min_{P \in \mathcal{P}} \mathbb{E}_P[u(a, s)] \right)
+\]</span> This model assumes that the decision-maker is extremely averse to ambiguity by always considering the worst case scenario.</p>
+</section>
+<section id="alpha-expected-utility" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="alpha-expected-utility"><span class="header-section-number">2.2</span> Alpha Expected Utility</h3>
+<p>The Alpha Expected Utility proposed by Ghirardato et al.&nbsp;(2004) is an generalization of the MinMax EU model that relax the assumption that decision-makers are extremely averse to ambiguity.</p>
+<p>Considering an ambiguous context in which the farmer only knows that the probability of a loss <span class="math inline">\((p)\)</span> lies in a certain interval <span class="math inline">\(P \in [p_{min},p_{max}]\)</span>, risk and ambiguity preferences are represented with the AEU model as: <span class="math display">\[
+\max EU = \alpha E_{p_{max}}U(x) + (1 - \alpha)E_{p_{min}}U(x)
+\]</span> Where <span class="math inline">\(\alpha \in [1,0]\)</span>&nbsp;is the decision-maker ambiguity attitude.</p>
+<p>Ambiguity <span class="math inline">\(a\)</span> is defined as the diameter of the interval <span class="math inline">\(P\)</span>, <span class="math inline">\(a=p_{max}-p_{min}\)</span>. The maximisation problem can be rewritten as: <span class="math display">\[
+maxEU = [\bar p - a(1/2-\alpha)]U(x) + [1-\bar p + a(1/2 - \alpha)]U(x)
+\]</span> where <span class="math inline">\(\bar p = (p_{min} + p_{max})/2\)</span> is the mean probability of incurring the loss calculated as the center of the interval <span class="math inline">\(P\)</span>.</p>
 <hr>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -16,9 +16,8 @@ PersonalWebsite/
 ├── README.md       # This file
 ├── assets/         # Images and cv files
 ├── index.html      # Main landing page
-├── research.html   # Research and projects page
-├── resources.html  # Resources and links page
 ├── cv.html         # CV download page
+├── resources.html  # Resources and links page
 ```
 
 ## Deployment
